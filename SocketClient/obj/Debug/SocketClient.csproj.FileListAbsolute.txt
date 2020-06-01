@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\ChatDemo\SocketClient\bin\Debug\SocketClient.exe.config
+C:\Users\Administrator\source\repos\ChatDemo\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\Administrator\source\repos\ChatDemo\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\Administrator\source\repos\ChatDemo\SocketClient\obj\Debug\SocketClient.MainForm.resources
+C:\Users\Administrator\source\repos\ChatDemo\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ChatDemo\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ChatDemo\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\Administrator\source\repos\ChatDemo\SocketClient\obj\Debug\SocketClient.pdb
